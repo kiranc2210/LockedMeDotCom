@@ -162,7 +162,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("\t\t\t\tWelcome to LockedMe.com V1.0");
+		System.out.println("\t\t\t\tWelcome to LockedMe.com V1.1");
 		System.out.println();
 
 		System.out.print("ProjectName" + " " + ":" + "   " + "LOCKEDME.COM\t\t\t");
