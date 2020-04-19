@@ -4,11 +4,11 @@ LockedMe.com: Virtual Key for Your Repositories
 
 Use The below Command to Pull the Project to your Local repository:
 
->> GIt should be Installed in workign System
+>> git should be Installed in your workign System
 
 >> Open the Bash Command Prompt
 
->> goto directory where you want the project to be saved
+>> goto a directory where you want the project to be saved
 
 >> Type The below command in the bash command prompt
 
