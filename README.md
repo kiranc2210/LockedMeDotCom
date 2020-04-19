@@ -2,7 +2,7 @@
 LockedMe.com: Virtual Key for Your Repositories
 
 
-Use The below Command to Pull the Project Locam repository:
+Use The below Command to Pull the Project to your Local repository:
 
 >> GIt should be Installed in workign System
 
