@@ -8,4 +8,4 @@ Use The below Command to Pull the Project Locam repository:
 >> Open the Bash Command Prompt
 >> goto directory where you want the project to be saved
 >> Type The below command in the bash command prompt
-             >> git clone 
+             >> git clone git@github.com:kiranc2210/virtualFileManagementApp.git
